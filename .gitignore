@@ -4,5 +4,3 @@
 *-save.kicad_prl
 *.bak
 *.bck
-_restore_backup_*
-.history/
