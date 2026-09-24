@@ -36,4 +36,4 @@ A light-sensitive circuit using a photoresistor, an NPN transistor, and two LEDs
 
 Made by @Merchant-Of-Life on Slack :D
 
-Made as a part of http://solder.hackclub.com/
+Falstad Simulation: https://www.falstad.com/s.php?s=7ohT6q
