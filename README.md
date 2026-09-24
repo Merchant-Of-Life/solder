@@ -12,6 +12,8 @@ A light-sensitive circuit using a photoresistor, an NPN transistor, and two LEDs
 
 ![PCB Back](assets/pcb-back.png)
 
+## RENDER
+
 ![3D Render Front](assets/render-front.png)
 
 ![3D Render Back](assets/render-back.png)
